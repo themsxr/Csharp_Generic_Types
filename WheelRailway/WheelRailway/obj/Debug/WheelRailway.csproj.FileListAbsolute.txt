@@ -1,0 +1,7 @@
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway\WheelRailway\bin\Debug\WheelRailway.exe.config
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway\WheelRailway\bin\Debug\WheelRailway.exe
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway\WheelRailway\bin\Debug\WheelRailway.pdb
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway\WheelRailway\obj\Debug\WheelRailway.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway\WheelRailway\obj\Debug\WheelRailway.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway\WheelRailway\obj\Debug\WheelRailway.exe
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway\WheelRailway\obj\Debug\WheelRailway.pdb

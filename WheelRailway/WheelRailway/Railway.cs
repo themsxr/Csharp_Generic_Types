@@ -5,7 +5,7 @@ namespace WheelRailway
 {
     class Railway
     {
-        private double[] bufor;
+        private object[] bufor;
         private int buforstart;
         private int buforend;
 
@@ -16,18 +16,18 @@ namespace WheelRailway
 
         public Railway(int volume)
         {
-            bufor = new double[volume + 1];
+            bufor = new object[volume + 1];
             buforstart = 0;
             buforend = 0;
         }
 
-        public void Save(double value)
+        public void Save(object value)
         {
             bufor[buforend] = value;
             buforend = (buforend + 1) % bufor.Length;
         }
 
-        public double Read()
+        public object Read()
         {
             var result = bufor[buforstart];
             buforstart = (buforstart + 1) % bufor.Length;
