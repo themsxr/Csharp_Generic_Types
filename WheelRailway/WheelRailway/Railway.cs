@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace WheelRailway
 {
-    class Railway
+    class Railway<T>
     {
-        private object[] bufor;
+        private T[] bufor;
         private int buforstart;
         private int buforend;
 
@@ -16,18 +16,18 @@ namespace WheelRailway
 
         public Railway(int volume)
         {
-            bufor = new object[volume + 1];
+            bufor = new T[volume + 1];
             buforstart = 0;
             buforend = 0;
         }
 
-        public void Save(object value)
+        public void Save(T value)
         {
             bufor[buforend] = value;
             buforend = (buforend + 1) % bufor.Length;
         }
 
-        public object Read()
+        public T Read()
         {
             var result = bufor[buforstart];
             buforstart = (buforstart + 1) % bufor.Length;

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B90F85CA-747C-44A3-BA60-0D36C5DDCE1B}</ProjectGuid>
+    <ProjectGuid>{287E2A82-86CC-4C81-BF5A-78024E33A743}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>WheelRailway</RootNamespace>
-    <AssemblyName>WheelRailway</AssemblyName>
+    <RootNamespace>GenericCollections</RootNamespace>
+    <AssemblyName>GenericCollections</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Railway.cs" />
+    <Compile Include="Worker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,0 +1,7 @@
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb
