@@ -28,6 +28,30 @@ namespace List
             {
                 Console.WriteLine($"------> {workers[i].Name} {workers[i].Surname}");
             }
+
+            Console.WriteLine("================================");
+
+            var nlist = new List<int>();
+            var size = -1;
+
+            while (true)
+            {
+                if (nlist.Capacity != size)
+                {
+                    size = nlist.Capacity;
+                    Console.WriteLine(size);
+                }
+
+                try
+                {
+                    nlist.Add(1);
+                }
+                catch (OutOfMemoryException)
+                {
+                    throw new ArgumentException("No space!");
+                    
+                }
+            }
         }
     }
 }

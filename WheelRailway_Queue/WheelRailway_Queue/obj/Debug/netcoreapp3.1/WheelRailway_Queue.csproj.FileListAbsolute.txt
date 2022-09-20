@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\bin\Debug\netcoreapp3.1\WheelRailway_Queue.exe
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\bin\Debug\netcoreapp3.1\WheelRailway_Queue.deps.json
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\bin\Debug\netcoreapp3.1\WheelRailway_Queue.runtimeconfig.json
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\bin\Debug\netcoreapp3.1\WheelRailway_Queue.runtimeconfig.dev.json
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\bin\Debug\netcoreapp3.1\WheelRailway_Queue.dll
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\bin\Debug\netcoreapp3.1\WheelRailway_Queue.pdb
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\obj\Debug\netcoreapp3.1\WheelRailway_Queue.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\obj\Debug\netcoreapp3.1\WheelRailway_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\obj\Debug\netcoreapp3.1\WheelRailway_Queue.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\obj\Debug\netcoreapp3.1\WheelRailway_Queue.AssemblyInfo.cs
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\obj\Debug\netcoreapp3.1\WheelRailway_Queue.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\obj\Debug\netcoreapp3.1\WheelRailway_Queue.dll
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\obj\Debug\netcoreapp3.1\WheelRailway_Queue.pdb
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\WheelRailway_Queue\WheelRailway_Queue\obj\Debug\netcoreapp3.1\WheelRailway_Queue.genruntimeconfig.cache

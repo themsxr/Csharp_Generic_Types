@@ -1,0 +1,17 @@
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\List_UnitTest.dll
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\List_UnitTest.pdb
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\List.exe
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\List.pdb
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\List.exe.config
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\obj\Debug\List_UnitTest.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\obj\Debug\List_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\obj\Debug\List_UnitTest.csproj.CopyComplete
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\obj\Debug\List_UnitTest.dll
+C:\Users\micha\Desktop\me\github\Csharp_Generic_Types\List_UnitTest\List_UnitTest\obj\Debug\List_UnitTest.pdb
